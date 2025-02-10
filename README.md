@@ -5,7 +5,7 @@
 ## Clone the repository
 
 ```bash
-npx degit neondatabase/examples/with-express ./with-express
+git clone https://github.com/karthikeyan120602/taxi-app-backend.git
 ```
 
 Run the command below to copy the `.env.example` file:
